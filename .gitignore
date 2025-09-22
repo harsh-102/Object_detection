@@ -1,0 +1,12 @@
+# Ignore virtual environment
+.venv/
+
+config.json
+
+yolov5su.pt
+yolov8n.pt
+
+traffic_system.log
+
+pbl2.zip
+
